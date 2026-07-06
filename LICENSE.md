@@ -1,4 +1,4 @@
-# 
+# Official liquidity sniper bot plugins for Mac OS | Best liquidity sniper bot plugins for PC Windows. Featuring gas fee estimation and private rpc endpoints — optimized for maximum performance on every platform.
 
 
 
